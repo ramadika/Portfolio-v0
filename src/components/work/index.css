@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Thasadith:wght@700&display=swap");
+
+.headWork {
+  font-family: "Poppins", sans-serif;
+}
+
+.headWork h1 {
+  margin-top: 15%;
+  font-weight: 600;
+  font-size: 36pt;
+}
+
+.headWork h4 {
+  position: absolute;
+  top: 52%;
+  font-weight: 200;
+}
+
+.headWork a {
+  color: #d63031;
+}
+
+.headWork a:hover {
+  text-decoration: none;
+  color: #a31f1f;
+}
+
+.project1 {
+  position: absolute;
+  left: -1%;
+  top: 100%;
+  padding-left: 10%;
+  margin-bottom: 2%;
+}
+
+.project1 img {
+  height: auto;
+  width: 50%;
+}
+
+.project1 a:hover {
+  transition: 0.5s;
+  filter: brightness(50%);
+}
+
+.project1 h4 {
+  position: absolute;
+  left: 10%;
+  top: 100%;
+  margin-top: 15pt;
+  font-family: "Quicksand", sans-serif;
+}
+
+.project1 li {
+  position: absolute;
+  left: 11%;
+  top: 120%;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 8pt;
+  color: #d63031;
+  font-family: "Poppins", sans-serif;
+}
+
+.project2 {
+  position: absolute;
+  left: 7%;
+  top: 160%;
+  /* top: 110%; */
+  margin-bottom: 2%;
+}
+
+.project2 img {
+  height: auto;
+  width: 45.5%;
+}
+
+.project2 a:hover {
+  transition: 0.5s;
+  filter: brightness(50%);
+}
+
+.project2 h4 {
+  left: -1%;
+  margin-top: 15pt;
+  font-family: "Quicksand", sans-serif;
+}
+
+.project2 li {
+  position: absolute;
+  left: 2.5%;
+  /* top: 100%; */
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 8pt;
+  color: #d63031;
+  font-family: "Poppins", sans-serif;
+}
+
+.project3 {
+  position: absolute;
+  left: 57%;
+  /* top: 177%; */
+  top: 130%;
+}
+
+.project3 img {
+  height: auto;
+  width: 33%;
+  /* margin-bottom: 10%; */
+}
+
+.project3 h4 {
+  /* left: -1%; */
+  margin-top: 15pt;
+  font-family: "Quicksand", sans-serif;
+}
+
+.project3 li {
+  position: absolute;
+  left: 2.5%;
+  /* top: 100%; */
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 8pt;
+  color: #d63031;
+  font-family: "Poppins", sans-serif;
+}
+
+.project3 a:hover {
+  transition: 0.5s;
+  filter: brightness(50%);
+}
+

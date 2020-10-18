@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Thasadith:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@200;700;800&display=swap");
+
+.home {
+  /* background-color: black; */
+  background-color: #f8f9fa;
+  padding: 12%;
+  /* color: #ecf0f1; */
+  color: #2d3436;
+  font-family: "Prompt", sans-serif;
+}
+
+.home h1 {
+  font-size: 72pt;
+  font-weight: 800;
+  position: absolute;
+  left: -12%;
+  top: 20%;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.home h2 {
+  font-size: 72pt;
+  font-weight: 800;
+  position: absolute;
+  left: -12%;
+  top: 44%;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.home h5 {
+  font-size: 12pt;
+  letter-spacing: 1px;
+  line-height: 20px;
+  font-weight: 400;
+  padding-right: 10%;
+  margin-top: -18pt;
+  font-family: 'Poppins', sans-serif;
+}
+
+.home h6 {
+  font-size: 8pt;
+  /* font-family: 'Poppins', sans-serif; */
+  letter-spacing: 1px;
+  line-height: 20px;
+  font-weight: 200;
+  /* font-family: "Raleway", sans-serif; */
+  /* position: absolute;
+    left: -20%;
+    top: 75%; */
+  padding-right: 10%;
+  /* margin-left: 15%; */
+}
+
+.home a {
+  color: #d63031;
+}
+
+.home a:hover {
+  text-decoration: none;
+  color: #a31f1f;
+}
+
+.tes {
+  /* padding-left: 20%; */
+  background-color: #d63031;
+  border: 100px #d63031;
+}
+
+.model {
+  height: 360px;
+  position: absolute;
+  bottom: 100px;
+  left: 62%;
+  transform: translateX(-70%);
+}

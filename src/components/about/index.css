@@ -1,0 +1,187 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Thasadith:wght@700&display=swap");
+
+.row {
+  /* background-color: #ecf0f1; */
+  padding-top: 1%;
+}
+
+.model {
+  /* background-color: #fab1a0; */
+  position: absolute;
+  top: -35%;
+  padding-left: 60%;
+}
+
+.about {
+  margin-top: 7%;
+}
+
+.about h1 {
+  /* background-color: black; */
+  font-family: "Poppins", sans-serif;
+}
+
+.about h5 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  padding-top: 10%;
+  padding-right: 40%;
+  line-height: 20px;
+  letter-spacing: 1px;
+  font-size: 10pt;
+}
+
+.about h6 {
+  /* background-color: black; */
+  /* color:#fab1a0; */
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  /* padding-top: 15%; */
+  padding-right: 40%;
+  line-height: 20px;
+  letter-spacing: 1px;
+  font-size: 10pt;
+}
+
+.about a {
+  color: #d63031;
+}
+
+.about a:hover {
+  text-decoration: none;
+  color: #a31f1f;
+  /* background-color: #dcdde1; */
+  padding: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+  /* border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border: 0px solid #000000; */
+  transition: 0.5s;
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.resume {
+  margin-left: 75pt;
+  /* padding-left: 75px; */
+  position: absolute;
+  left: 20%;
+  top: 89%;
+}
+
+.quote{
+  margin-top: 10%;
+}
+
+.quote h2 {
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: "Quicksand", sans-serif;
+  color: #dcdde1;
+  padding: 0% 15%;
+  font-weight: 100;
+  font-size: 18pt;
+}
+
+.quote h6 {
+  font-family: "Poppins", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  color: #dfe4ea;
+  padding: 0% 45%;
+  font-weight: 100;
+  font-size: 12pt;
+}
+
+.value {
+  padding-left: 10%;
+  margin-bottom: 10pt;
+  margin-top: 15pt;
+}
+
+.value h3 {
+  color: #d63031;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-size: 14pt;
+  letter-spacing: 3px;
+}
+
+.value h6 {
+  color: #dcdde1;
+  font-family: "Quicksand", sans-serif;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.value h5 {
+  font-size: 11pt;
+  /* font-weight: normal; */
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+
+.value h4 {
+  font-size: 9pt;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.descHonorORg {
+  font-size: 9pt;
+  margin-top: -5px;
+  margin-bottom: 15px;
+  font-weight: normal;
+}
+
+.valueEx {
+  position: absolute;
+  bottom: -66%;
+}
+
+.valueEx h1 {
+  font-size: 8pt;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 1px;
+  margin-top: -8px;
+  color: #dcdde1;
+}
+
+.valueTr {
+  position: absolute;
+  bottom: -73%;
+  right: -70.4%;
+}
+
+.contact {
+  padding: 24%;
+  padding-left: 10%;
+  background-color: black;
+  font-size: 11pt;
+}
+
+.contact h1 {
+  font-size: 13pt;
+  /* color: #636e72; */
+  margin-bottom: 25pt;
+}
+
+.contact h1 b {
+  color: #ffffff;
+}
+
+.contact a {
+  padding-right: 25px;
+  color:#636e72;
+  /* color: #3d3d3d; */
+  font-weight: bold;
+}
+
+.contact a:hover{
+    text-decoration: none;
+    color: #1e2122;
+    transition: 0.5s;
+}
