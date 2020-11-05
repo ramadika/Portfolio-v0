@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mePortfolio/static/css/main.dec40426.chunk.css",
+    "main.js": "/mePortfolio/static/js/main.b6722bf1.chunk.js",
+    "main.js.map": "/mePortfolio/static/js/main.b6722bf1.chunk.js.map",
+    "runtime-main.js": "/mePortfolio/static/js/runtime-main.a30ae631.js",
+    "runtime-main.js.map": "/mePortfolio/static/js/runtime-main.a30ae631.js.map",
+    "static/js/2.e8d87667.chunk.js": "/mePortfolio/static/js/2.e8d87667.chunk.js",
+    "static/js/2.e8d87667.chunk.js.map": "/mePortfolio/static/js/2.e8d87667.chunk.js.map",
+    "index.html": "/mePortfolio/index.html",
+    "precache-manifest.ca13b51445c9bc5c4851cda072ea996c.js": "/mePortfolio/precache-manifest.ca13b51445c9bc5c4851cda072ea996c.js",
+    "service-worker.js": "/mePortfolio/service-worker.js",
+    "static/css/main.dec40426.chunk.css.map": "/mePortfolio/static/css/main.dec40426.chunk.css.map",
+    "static/js/2.e8d87667.chunk.js.LICENSE.txt": "/mePortfolio/static/js/2.e8d87667.chunk.js.LICENSE.txt",
+    "static/media/Aplikasi WEb.jpg": "/mePortfolio/static/media/Aplikasi WEb.5355388a.jpg",
+    "static/media/HomepageRizkyRamadika.png": "/mePortfolio/static/media/HomepageRizkyRamadika.3b0875c8.png",
+    "static/media/applUIUX.jpg": "/mePortfolio/static/media/applUIUX.e331ad9a.jpg",
+    "static/media/me.png": "/mePortfolio/static/media/me.391f1390.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a30ae631.js",
+    "static/js/2.e8d87667.chunk.js",
+    "static/css/main.dec40426.chunk.css",
+    "static/js/main.b6722bf1.chunk.js"
+  ]
+}
