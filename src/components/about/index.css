@@ -185,3 +185,9 @@
     color: #1e2122;
     transition: 0.5s;
 }
+
+@media (min-width: 300px) and (max-width: 640px) {
+  .about {
+    margin-top: 1%;
+  }
+}

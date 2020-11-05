@@ -7,10 +7,13 @@ import ImgPrfl from 'assets/images/me.png'
 // Internals
 import "assets/css/bootstrap.css";
 import 'components/about/index.css'
+// import MediaQuery from 'react-responsive'
+
 
 export default function index() {
     return (
         <div>
+            {/* <MediaQuery minDeviceWidth={320} maxDeviceWidth={1224}> */}
             <Row className="about">
                 <Col>
                     <img src={ImgPrfl} alt="PicOfMe" className="model"></img>
@@ -108,6 +111,7 @@ export default function index() {
                     <a href="https://github.com/ramadika">Github</a>
                 </Col>
             </Row>
+            {/* </MediaQuery> */}
         </div>
     )
 }
