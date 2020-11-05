@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 // import { BrowserRouter } from "react-router-dom";
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
+// import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import { HashRouter as Router, Route, Switch } from 'react-router-dom'
+
 
 
 import App from './App';
@@ -16,7 +18,7 @@ ReactDOM.render(
   // <React.StrictMode>
   //   <App />
   // </React.StrictMode>,
-  <BrowserRouter>
+  <Router>
     <BaseLayout>
       <Switch>
         <Route exact path="/" component={App} />
@@ -26,7 +28,7 @@ ReactDOM.render(
       </Switch>
     </BaseLayout>
     {/* <App /> */}
-  </BrowserRouter>,
+  </Router>,
   document.getElementById('root')
 );
 
